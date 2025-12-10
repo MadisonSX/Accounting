@@ -1,0 +1,9 @@
+data/
+output/
+.RData
+.Rhistory
+.Rprofile
+*.Rproj
+*.user
+
+.DS_Store
